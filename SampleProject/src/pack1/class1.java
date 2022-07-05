@@ -6,6 +6,8 @@ public class class1 {
 		
 		// My sample project
 		
+		System.out.println("Class 1");
+		
 		
 
 	}
